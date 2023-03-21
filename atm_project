@@ -103,7 +103,7 @@ while (True):
                         t.sleep(1)
                         print("Process Cancelled!\n\n")
 
-                    break
+                    break;
 
                 else:
                     print("Loading Card Return...")
