@@ -1,7 +1,7 @@
 import time as t
 user_pin = int(input("enter user pin:"))
 user_balance = int(input("enter balance:"))
-user_name = input("enter name:")
+user_name = input("enter name:");
 
 
 print("Welcome to your bank account", user_name, end = "\n\n")
