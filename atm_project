@@ -78,7 +78,7 @@ while (True):
                     if confirm in ('Y', 'y'): 
                         user_balance+=deposit_amt
                         print("Amount deposited - Rs.", deposit_amt)
-                        print("Updated balance - Rs.", user_balance, end = "\n\n\n")
+                         print("Updated balance - Rs.", user_balance, end = "\n\n\n")
                     else:
                         print("Cancelling transaction...")
                         t.sleep(1)
